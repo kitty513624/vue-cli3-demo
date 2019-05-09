@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceb16685-1ae9-4702-871c-28abf8392cc1" name="Default" comment="" />
+    <list default="true" id="ceb16685-1ae9-4702-871c-28abf8392cc1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/my-demo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/views/Home.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,14 +46,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-demo/src/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="190">
               <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-demo/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -107,6 +118,7 @@
         <option value="$PROJECT_DIR$/my-demo/postcss.config.js" />
         <option value="$PROJECT_DIR$/my-demo/src/main.js" />
         <option value="$PROJECT_DIR$/my-demo/src/cube-ui.js" />
+        <option value="$PROJECT_DIR$/my-demo/src/views/Home.vue" />
       </list>
     </option>
   </component>
@@ -221,12 +233,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557383062402</updated>
       <workItem from="1557383064493" duration="142000" />
-      <workItem from="1557383343340" duration="2323000" />
+      <workItem from="1557383343340" duration="2330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2465000" />
+    <option name="totallyTimeSpent" value="2472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="832" extended-state="0" />
@@ -364,11 +376,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-demo/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="190">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-demo/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
