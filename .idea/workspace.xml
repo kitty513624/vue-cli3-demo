@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceb16685-1ae9-4702-871c-28abf8392cc1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-demo/config/pro.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/config/pro.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-demo/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-demo/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/views/Demo_002.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-demo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/views/Demo_001.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-demo/src/views/Demo_001.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/views/Demo_001.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-demo/src/views/Demo_002.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-demo/src/views/Demo_002.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,23 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-demo/src/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Demo_001.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-demo/src/views/Demo_001.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="38">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
                 <element signature="e#796#810#0" />
               </folding>
@@ -55,11 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-demo/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+            <state relative-caret-position="278">
+              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo_002.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-demo/src/views/Demo_002.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="100" column="14" lean-forward="true" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+              <folding>
+                <element signature="e#972#1003#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +145,9 @@
         <option value="$PROJECT_DIR$/my-demo/src/common/stylus/icon.styl" />
         <option value="$PROJECT_DIR$/my-demo/src/common/stylus/base.styl" />
         <option value="$PROJECT_DIR$/my-demo/src/common/stylus/mixin.styl" />
-        <option value="$PROJECT_DIR$/my-demo/src/views/Demo_001.vue" />
         <option value="$PROJECT_DIR$/my-demo/README.md" />
+        <option value="$PROJECT_DIR$/my-demo/src/views/Demo_001.vue" />
+        <option value="$PROJECT_DIR$/my-demo/src/views/Demo_002.vue" />
       </list>
     </option>
   </component>
@@ -267,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557383062402</updated>
       <workItem from="1557383064493" duration="142000" />
-      <workItem from="1557383343340" duration="14174000" />
+      <workItem from="1557383343340" duration="16394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14316000" />
+    <option name="totallyTimeSpent" value="16536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,17 +282,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="832" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4926004" weight="0.3292517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888654" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48062015" weight="0.3292517" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50880903" side_tool="true" visible="true" weight="0.370068" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52078927" side_tool="true" visible="true" weight="0.44625852" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.3292517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49119097" visible="true" weight="0.370068" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4792107" visible="true" weight="0.44625852" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -459,20 +455,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-demo/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-demo/src/views/Demo_001.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding>
             <element signature="e#796#810#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-demo/README.md">
+    <entry file="file://$PROJECT_DIR$/my-demo/src/views/Demo_002.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        <state relative-caret-position="84">
+          <caret line="100" column="14" lean-forward="true" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+          <folding>
+            <element signature="e#972#1003#0" />
+          </folding>
         </state>
       </provider>
     </entry>

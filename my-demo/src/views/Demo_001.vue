@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Demo11</h1>
+    <h1>Demo_001</h1>
     <h2>文字无缝滚动 -- css动画</h2>
     <div class="text-container">
       <div class="inner-container">

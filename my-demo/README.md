@@ -44,6 +44,8 @@ git push -u origin master
 git remote add origin https://githup.com/kitty513624/vue-cli3-demo.git
 git push -u origin master
 ```
-文件说明：
+### 文件说明：
+```
 Demo_001: vue-cli3中 文字无缝向上滚动
 Demo_002: vue-cli3中 文字无缝停顿向上滚动
+```
