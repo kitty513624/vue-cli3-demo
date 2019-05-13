@@ -6,4 +6,4 @@ const proEnv = {
     tokenC: '7CC5CF50E05529752BEFD677E8A51A06',
   },
 };
-export { proEnv as default };
+export {proEnv as default};
