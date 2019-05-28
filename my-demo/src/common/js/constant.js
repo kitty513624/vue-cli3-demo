@@ -1,0 +1,47 @@
+export default {
+  STORAGE_NAME_LOGIN_TOKEN: 'LOGIN_TOKEN',
+  STORAGE_NAME_REDIRECT_URI: 'REDIRECT_URI',
+  INSURANCE_ROLE_DEF_NAME: {
+    MALE_HOST: '男主人',
+    FEMALE_HOST: '女主人',
+    FATHER: '父亲',
+    MOTHER: '母亲',
+    FATHER_IN_LAW: '岳父/公公',
+    MOTHER_IN_LAW: '岳母/婆婆',
+    DAUGHTER: '女儿',
+    SON: '儿子',
+  },
+  INSURANCE_REPORT_TYPE: {
+    TYPE_A: '1',
+    TYPE_B: '2',
+  },
+  INSURANCE_REPORT_ROLE_SEX: {
+    MAN: '男',
+    FEMALE: '女',
+  },
+  INSURANCE_REPORT_ROLE_ID: {
+    ID_1: 1,
+    ID_2: 2,
+    ID_3: 3,
+    ID_4: 4,
+    ID_5: 5,
+    ID_6: 6,
+    ID_7: 7,
+    ID_8: 8,
+  },
+  INSURANCE_REPORT_ROLE_JOB: {
+    PURE_OFFICE_STAFF: '纯室内办公人员',
+    OFFICE_STAFF_OCCASIONALLY_GO_OUT: '室内办公人员，偶尔有外出',
+    LIGHT_MANUAL_LABOR_OUTDOORS: '户外轻体力劳动',
+    HEAVY_MANUAL_LABOR: '重体力劳作人员',
+    HIGH_RISK_WORK: '高危工作',
+    OPERATION_OF_QUARRYING_AND_MINING_MACHINERY: '采石采矿机械操作',
+    UNDER_16_YEARS_OLD: '16周岁以下',
+  },
+  INSURANCE_REPORT_MARRY_TYPE: {
+    SINGLE: '单身',
+    MARRIED_WITHOUT_CHILDREN: '已婚无孩',
+    MARRIED_WITH_CHILDREN: '已婚有孩',
+    OTHER: '其他',
+  },
+};

@@ -10,8 +10,15 @@ export default new Router({
   routes: [
     {
       path: '/',
+      redirect: 'demo_001',
+    },
+    {
+      path: '/demo_001',
       name: 'demo_001',
       component: Demo001,
+      meta: {
+        title: '文字无缝滚动',
+      },
     },
     {
       path: '/demo_002',
@@ -20,6 +27,30 @@ export default new Router({
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
       component: () => import(/* webpackChunkName: "about" */ './views/Demo_002.vue'),
+      meta: {
+        title: '文字无缝停顿滚动',
+      },
+    },
+    {
+      path: '/demo_004',
+      name: 'demo_004',
+      component: () => import('./components/Demo_004.vue'),
+      meta: {
+        title: '文字无缝停顿滚动',
+      },
+    },
+    {
+      path: '/demo_005',
+      name: 'demo_005',
+      component: () => import('./components/Demo_005.vue'),
+      meta: {
+        title: '文字无缝停顿滚动',
+      },
+    },
+    {
+      path: '/demo',
+      name: 'demo',
+      component: () => import('./views/Demo.vue'),
     },
   ],
 });
