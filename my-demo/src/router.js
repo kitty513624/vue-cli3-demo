@@ -32,6 +32,14 @@ export default new Router({
       },
     },
     {
+      path: '/demo_003',
+      name: 'demo_003',
+      component: () => import('./components/Demo_003.vue'),
+      meta: {
+        title: '轮播图',
+      },
+    },
+    {
       path: '/demo_004',
       name: 'demo_004',
       component: () => import('./components/Demo_004.vue'),

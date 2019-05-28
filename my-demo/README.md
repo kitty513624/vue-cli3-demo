@@ -62,6 +62,7 @@ npm run serve
 npm run serve
 访问路径：http://localhost:8080/demo_003
 ```
+![Alt text](./src/images/slideShow/slide_show.png)
 ##### Demo_004: vue-cli3中 Echarts图表折线图
 ```
 npm run serve
