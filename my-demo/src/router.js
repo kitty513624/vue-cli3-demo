@@ -56,6 +56,14 @@ export default new Router({
       },
     },
     {
+      path: '/demo_006',
+      name: 'demo_006',
+      component: () => import('./components/Demo_006.vue'),
+      meta: {
+        title: '手势左右滑动',
+      },
+    },
+    {
       path: '/demo',
       name: 'demo',
       component: () => import('./views/Demo.vue'),

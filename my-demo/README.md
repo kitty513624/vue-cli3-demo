@@ -75,3 +75,9 @@ npm run serve
 访问路径：http://localhost:8080/demo_005
 ```
 ![Alt text](./src/images/echarts/echarts_01.png)
+##### Demo_006: vue-cli3中 左右手势滑动显示图片
+```
+npm run serve
+访问路径：http://localhost:8080/demo_006
+```
+![Alt text](./src/images/sliders/slide_left_right.png)
