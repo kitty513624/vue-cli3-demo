@@ -81,3 +81,8 @@ npm run serve
 访问路径：http://localhost:8080/demo_006
 ```
 ![Alt text](./src/images/sliders/slide_left_right.png)
+##### Demo_007: vue-cli3中 页面滑动到底部调用后台添加积分
+```
+npm run serve
+访问路径：http://localhost:8080/demo_007
+```

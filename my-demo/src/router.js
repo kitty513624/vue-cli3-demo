@@ -64,6 +64,14 @@ export default new Router({
       },
     },
     {
+      path: '/demo_007',
+      name: 'demo_007',
+      component: () => import('./components/Demo_007.vue'),
+      meta: {
+        title: '页面滑动到底部增加积分',
+      },
+    },
+    {
       path: '/demo',
       name: 'demo',
       component: () => import('./views/Demo.vue'),
