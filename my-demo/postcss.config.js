@@ -8,7 +8,7 @@ module.exports = {
       viewportUnit: 'vw',
       selectorBlackList: ['.ignore', /^.cube/],
       minPixelValue: 1,
-      mediaQuery: false
-    }
+      mediaQuery: false,
+    },
   },
 };
