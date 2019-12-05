@@ -86,3 +86,23 @@ npm run serve
 npm run serve
 访问路径：http://localhost:8080/demo_007
 ```
+![Alt text](./src/images/processLine/001.png)
+##### Demo_008: vue-cli3中 进度条颜色三段固定
+```
+npm run serve
+访问路径：http://localhost:8080/demo_008
+```
+
+![Alt text](./src/images/processLine/002.png)
+##### Demo_009: vue-cli3中 进度条颜色三段按百分比
+```
+npm run serve
+访问路径：http://localhost:8080/demo_009
+```
+
+![Alt text](./src/images/processLine/003.png)
+##### Demo_010: vue-cli3中 添加动画：进度条加水波纹动画，动态滑动到进度值
+```
+npm run serve
+访问路径：http://localhost:8080/demo_010
+```

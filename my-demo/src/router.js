@@ -72,6 +72,30 @@ export default new Router({
       },
     },
     {
+      path: '/demo_008',
+      name: 'demo_008',
+      component: () => import('./components/Demo_008.vue'),
+      meta: {
+        title: '进度条一',
+      },
+    },
+    {
+      path: '/demo_009',
+      name: 'demo_009',
+      component: () => import('./components/Demo_009.vue'),
+      meta: {
+        title: '进度条二',
+      },
+    },
+    {
+      path: '/demo_010',
+      name: 'demo_010',
+      component: () => import('./components/Demo_010.vue'),
+      meta: {
+        title: '进度条三',
+      },
+    },
+    {
       path: '/demo',
       name: 'demo',
       component: () => import('./views/Demo.vue'),

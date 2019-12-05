@@ -9,19 +9,19 @@
 </template>
 
 <script>
-export default {
-  data() {
-    return {
-      name: 'Demo_008',
-      width: 80,
-    };
-  },
-};
+  export default {
+    data() {
+      return {
+        name: 'Demo_009',
+        width: 30,
+      };
+    },
+  };
 </script>
 
 <style scoped lang="stylus">
-@import '../common/stylus/mixin.styl'
-@import '../common/stylus/variable.styl'
+  @import '../common/stylus/mixin.styl'
+  @import '../common/stylus/variable.styl'
   .process-line-swapper
     .color-progress-percentage-content
       wh(622px, 64px)
@@ -42,8 +42,8 @@ export default {
           background-color transparent
           background -webkit-linear-gradient(left,
           #46F1A7 0,
-          #F6A704 311px,
-          #FF2301 622px)
+          #F6A704 50%,
+          #FF2301 100%)
           background-repeat no-repeat
           border-radius 16px
           position relative
